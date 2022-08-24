@@ -3,6 +3,8 @@
 ### Aspiring software developer, currently in my final of my Computer Science Degree at QUT.
 Alot of my current programming experience has been with software development👩‍💻 and Front/Back end Web development📶 But I'm also interested in Robotics and AI🤖. 
 
+Currently learning Lua and makeing WoW addons
+
 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50px"> <img 
