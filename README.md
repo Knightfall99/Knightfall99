@@ -3,7 +3,7 @@
 ### Aspiring software developer, currently in my final of my Computer Science Degree at QUT.
 Alot of my current programming experience has been with software development👩‍💻 and Front/Back end Web development📶 But I'm also interested in Robotics and AI🤖. 
 
-Currently learning Lua and with WoW addons
+Currently learning Lua with WoW addons
 
 🧰 Toolbox
 
