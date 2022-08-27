@@ -16,7 +16,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50px"> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50px"> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Reactjs" width="50px"> <img 
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="50px">
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knightfall99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
