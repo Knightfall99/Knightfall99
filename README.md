@@ -15,7 +15,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript
 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50px"> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50px"> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50px"> <img 
-src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Reactjs" width="50px"> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Reactjs" width="50px">
 
 
 
