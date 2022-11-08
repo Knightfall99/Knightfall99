@@ -21,8 +21,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knightfall99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-*Under Construction*
-https://knightfall99.github.io/
+
 <!--
 **Knightfall99/Knightfall99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
