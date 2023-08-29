@@ -1,10 +1,5 @@
 # <img src="https://c.tenor.com/ECDOKKbP82AAAAAi/sonic-hi.gif" width="50px"> I'm Lachlan <img src="https://c.tenor.com/ECDOKKbP82AAAAAi/sonic-hi.gif" width="50px">
 
-### Aspiring software developer, currently in my final Semester of my Computer Science Degree at QUT.
-Alot of my current programming experience has been with software development👩‍💻 and Full stack Web development📶 But I'm also interested in Robotics and AI🤖. 
-
-Currently learning Lua with WoW addons
-
 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50px"> <img 
